@@ -1,2 +1,2 @@
 # Twitter-Data-Pipeline
-An ETL tool to extract tweets using Twitter API and Apache Airflow
+A tool for ETL operations that retrieves tweets by utilizing both the Twitter API and Apache Airflow.
